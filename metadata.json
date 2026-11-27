@@ -1,0 +1,6 @@
+{
+  "name": "Calistenia em Casa — Personal Trainer & Plano Individualizado",
+  "description": "Plataforma técnica de treinamento personalizado de calistenia em casa com anamnese, escadas de progressão por padrão de movimento, controle de deload, sessão guiada e diário de evolução.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
